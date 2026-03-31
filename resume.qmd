@@ -1,16 +1,15 @@
 ---
 layout: cv
-title: Kaiana Bolton's CV
+title: Kaiana Bolton's Resume
 ---
 # Kaiana Bolton
 Aspiring Accountant and Future CPA
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-<!-- | <a href="https://yourusername.github.io/datascience_portfolio/gh-pages/resume.pdf">Download PDF</a> -->
-| <a href="https://github.com/byuidatascience/datascience_portfolio/blob/gh-pages/resume.pdf">Download PDF</a>
-</div>
+<a href="kaiana.bono@gmail.com">kaiana.bono@gmail.com</a>
+| <a href="https://www.linkedin.com/in/kaiana-bolton-bono-ab1a6029b/">My LinkedIn</a>
+<| <a href="https://kaibolt628.github.io/datascience_portfolio/gh-pages/resume.pdf">Download PDF</a> 
+
 
 
 ## Currently
@@ -43,7 +42,7 @@ __Brigham Young University-Idaho__
 
 ## Experience
 
-`Janruary 2025 - April 2025`
+`January 2025 - April 2025`
 __WSRP-Now Richey May Utah__, Audit Intern, Salt Lake City, UT
 
 - Collaborated in planning and executing financial audits, including substantive testing, analytical procedures, and internal control evaluations for clients across various industries.
