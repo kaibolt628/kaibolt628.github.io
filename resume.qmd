@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Kaiana Bolton's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Kaiana Bolton
+Aspiring Accountant and Future CPA
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -15,77 +15,70 @@ Physicist, Mathematician, Cambridge professor.
 
 ## Currently
 
-Standing on the shoulders of giants
+Full time student at BYU-Idaho. Anticipated graduation date: July 2026.
 
-### Specialized in
+### Experience with
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Excel, IDEA, Altryx, and Other Audit documentation software.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Graduated May 2021`
+__Aberdeen High School__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Valedictorian.
+- Honors Society President for 2020-2021.
 
-- Sizar
+`August 2021 - June 2024`
+__Idaho State University__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Bachelor of Science in Accounting.
+- Student Volunteer, ISU Volunteer Income Tax Assistance (VITA).
 
-- Fellow
+`September 2024 - Present`
+__Brigham Young University-Idaho__
 
+- Bachelor of Science in Accounting.
+- Certificate in Data Science.
 
+## Experience
 
-## Awards
+`Janruary 2025 - April 2025`
+__WSRP-Now Richey May Utah__, Audit Intern, Salt Lake City, UT
 
-`2012`
-President, *Royal Society*, London, UK
+- Collaborated in planning and executing financial audits, including substantive testing, analytical procedures, and internal control evaluations for clients across various industries.
+- Analyzed financial statements, tested transactions, and evaluated internal controls to support compliance with GAAP and regulatory standards.
+- Prepared workpapers, documented audit findings, and collaborated with senior auditors on risk assessments.
+- Utilized audit software and Excel to prepare workpapers, review supporting documentation, and assist with testing procedures.
 
-Associate, *French Academy of Science*, Paris, France
+`October 2022 - August 2023`
+__Idaho Central Credit Union__, Customer Service Specialist, Chubbuck, ID
 
+- Communicated with members to resolve account concerns, maintain relationships, and deliver high-quality customer service.
+- Selected for a specialized team to handle escalated member disputes and provide timely issue resolution.
 
+`September 2021 - October 2021`
+__Thompson Farms__, Truck Driver, Pinegree, ID
 
-## Publications
+- Operated a 10-wheel truck during potato and beet harvest to transport crops efficiently and safely.
+- Transferred harvested goods from fields to storage facilities to support time-sensitive harvest operations.
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`September 2020 - May 2021`
+__Wallace Drug__, Retail Clerk/Cashier, Aberdeen, ID
 
-### Journals
+- Processed customer transactions for purchases, returns, and exchanges accurately and
+efficiently.
+- Answered incoming calls and directed customers to correct department or staff member.
+- Maintained store organization by cleaning, stocking shelves, and collaborating with team members to support daily operations.
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`September 2011 - October 2019`
+__COMA Farms__, Laborer, Aberdeen, ID
 
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+- Worked in seasonal potato harvests for eight consecutive years, contributing approximately two and a half weeks each season.
+- Operated potato piler equipment for harvest and sorting operations.
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Mar 2026 -->
