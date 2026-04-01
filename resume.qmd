@@ -8,8 +8,6 @@ Aspiring Accountant and Future CPA
 <div id="webaddress">
 <a href="kaiana.bono@gmail.com">kaiana.bono@gmail.com</a>
 | <a href="https://www.linkedin.com/in/kaiana-bolton-bono-ab1a6029b/">My LinkedIn</a>
-<| <a href="https://kaibolt628.github.io/datascience_portfolio/gh-pages/resume.pdf">Download PDF</a> 
-
 
 
 ## Currently
